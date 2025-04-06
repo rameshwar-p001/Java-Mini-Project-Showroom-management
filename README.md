@@ -45,6 +45,9 @@ Dr. Sagar D. Pande,
 
 Pimpri Chinchwad University.
 
+📃 License
+
+This project is open-source and free to use for educational purposes
 
 ## 📂 Project Structure
 
@@ -72,5 +75,4 @@ Showroom-Management-System/
 └── README.md
 
 
-📃 License
-This project is open-source and free to use for educational purposes
+
