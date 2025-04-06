@@ -25,6 +25,7 @@ A modern Java-based GUI application designed for efficiently managing showroom o
 ---
 
 📸 Screenshots
+![Screenshot 2025-04-05 232801](https://github.com/user-attachments/assets/e87d9f2d-b902-4c54-aabe-8416973b6276)
 
 
 📚 How to Run
