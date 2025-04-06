@@ -98,14 +98,15 @@ The project uses **SQLite** as a local database. Below are the primary tables:
 
 
 📚 How to Run
-Clone the repository
-bash :--- git clone https://github.com/your-username/showroom-management-system.git
+1. Clone the repository
+      bash :--- git clone https://github.com/your-username/showroom-management-system.git
 
-Open in VS Code or any Java-supported IDE
+2. Open in VS Code or any Java-supported IDE
 
-Run Main.java to start the application
+3. Run Main.java to start the application
 
-Make sure showroom.db is in the correct path
+4. Make sure showroom.db is in the correct path
+
 
 
 
