@@ -1,18 +1,76 @@
-## Getting Started
+# 🚗 Showroom Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A modern Java-based GUI application designed for efficiently managing showroom operations. Developed using **Java Swing** for the interface and **SQLite** as the backend database, this project covers all major functionalities such as product and customer management, sales tracking, and secure login access.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📌 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 🔐 **Login System** — Secure entry for authorized users only.
+- ➕ **Add Product** — Add new products to the showroom inventory.
+- 👁️ **View Products** — Browse and search all added products.
+- 👤 **Add Customer** — Store customer details for better tracking.
+- 💸 **Sell Product** — Record sales transactions in real-time.
+- 📊 **View Sales** — Review all past sales and analyze performance.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tech Stack
 
-## Dependency Management
+- **Language:** Java  
+- **GUI Library:** Swing  
+- **Database:** SQLite  
+- **IDE:** VS Code
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+📸 Screenshots
+
+
+📚 How to Run
+Clone the repository
+bash :--- git clone https://github.com/your-username/showroom-management-system.git
+
+Open in VS Code or any Java-supported IDE
+
+Run Main.java to start the application
+
+Make sure showroom.db is in the correct path
+
+🙏 Acknowledgment
+
+This project was developed under the guidance of
+
+Dr. Sagar D. Pande,
+
+Pimpri Chinchwad University.
+
+
+## 📂 Project Structure
+
+```bash
+Showroom-Management-System/
+│
+├── src/
+│   ├── Main.java
+│   ├── panels/
+│   │   ├── AddProductPanel.java
+│   │   ├── AddCustomerPanel.java
+│   │   ├── SellProductPanel.java
+│   │   ├── ViewProductPanel.java
+│   │   ├── ViewSalesPanel.java
+│   │   └── LoginPanel.java
+│   └── database/
+│       └── DBConnection.java
+│
+├── resources/
+│   └── icons, images, styling files
+│
+├── database/
+│   └── showroom.db
+│
+└── README.md
+
+
+📃 License
+This project is open-source and free to use for educational purposes
