@@ -139,11 +139,8 @@ Showroom-Management-System/
 
 🙏 Acknowledgment
 
-This project was developed under the guidance of
+Developed By :- Rameshwar D Patil
 
-Dr. Sagar D. Pande,
-
-Pimpri Chinchwad University.
 
 📃 License
 
